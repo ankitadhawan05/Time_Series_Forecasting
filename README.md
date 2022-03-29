@@ -1,1 +1,1 @@
-# This notebook contains a Time Series forecasting model on electricity demand. It contains ETS, SARIMA and SARIMAX models with two datasets.
+# This repositary contains two forecasting models on electricity demand and Sales of Beer. It contains ETS, SARIMA and SARIMAX models.
